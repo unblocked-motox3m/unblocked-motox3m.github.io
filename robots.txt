@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unblocked-motox3m.github.io/sitemap.xml
